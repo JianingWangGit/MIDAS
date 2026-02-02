@@ -1,0 +1,16 @@
+full_name,stars,html_url,issues_closed,prs_merged,language,description,role
+browser-use/browser-use,68919,https://github.com/browser-use/browser-use,650,1037,Python,🌐 Make websites accessible for AI agents. Automate tasks online with ease.,both
+All-Hands-AI/OpenHands,62871,https://github.com/All-Hands-AI/OpenHands,2976,5223,Python,"🙌 OpenHands: Code Less, Make More",both
+FoundationAgents/OpenManus,49300,https://github.com/FoundationAgents/OpenManus,320,106,Python,"No fortress, purely open ground.  OpenManus is Coming.",both
+microsoft/autogen,49226,https://github.com/microsoft/autogen,2467,2501,Python,A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour,both
+openai/codex,37467,https://github.com/openai/codex,702,1015,Rust,Lightweight coding agent that runs in your terminal,both
+anthropics/claude-code,32028,https://github.com/anthropics/claude-code,3789,66,TypeScript,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",both
+continuedev/continue,28650,https://github.com/continuedev/continue,2952,2924,TypeScript,"⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI",both
+AstrBotDevs/AstrBot,11806,https://github.com/AstrBotDevs/AstrBot,1763,346,Python,✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify,both
+xszyou/Fay,11757,https://github.com/xszyou/Fay,31,3,JavaScript,fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。,application
+QwenLM/Qwen-Agent,11203,https://github.com/QwenLM/Qwen-Agent,282,22,Python,"Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",both
+lastmile-ai/mcp-agent,7168,https://github.com/lastmile-ai/mcp-agent,72,167,Python,Build effective agents using Model Context Protocol and simple workflow patterns,both
+daodao97/chatmcp,1985,https://github.com/daodao97/chatmcp,108,49,Dart,ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).,both
+NitroRCr/AIaW,1289,https://github.com/NitroRCr/AIaW,84,3,Vue,"AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端",both
+CoderGamester/mcp-unity,941,https://github.com/CoderGamester/mcp-unity,47,18,C#,"Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for OpenAI, Gemini, Claude, Deepseek and Grok interoperability",both
+LSTM-Kirigaya/openmcp-client,471,https://github.com/LSTM-Kirigaya/openmcp-client,30,32,Vue,All in one vscode plugin for mcp developer,both

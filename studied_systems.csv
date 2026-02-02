@@ -1,0 +1,32 @@
+Full Name,Stars,Github URLs,language,Number of Open Issues,Number of Closed Issues,Description,Classification
+All-Hands-AI/OpenHands,62871,https://github.com/All-Hands-AI/OpenHands,Python,134,3508,An autonomous AI software developer (formerly OpenDevin) capable of executing complex tasks using MCP tools.,Autonomous Agents
+anthropics/claude-code,53500,https://github.com/anthropics/claude-code,TypeScript,4954,11468,An agentic coding tool by Anthropic that runs in the terminal capable of using MCP tools to manipulate codebases.,Coding Assistants
+awslabs/mcp,7800,https://github.com/awslabs/mcp,Python,155,316,A collection of MCP servers for AWS services including ECS EKS and Serverless infrastructure.,Cloud & Data Services
+azure-ai-foundry/mcp-foundry,230,https://github.com/microsoft-foundry/mcp-foundry,Python,18,3,An MCP server for interacting with Azure AI Foundry projects and models (Note: functionality moving to cloud).,Cloud & Data Services
+browser-use/browser-use,68919,https://github.com/browser-use/browser-use,Python,145,1179,An MCP server that enables AI assistants to control a web browser for automation tasks.,Specialized Tool Bridges
+continuedev/continue,28650,https://github.com/continuedev/continue,TypeScript,684,3637,An open-source AI code assistant for VS Code and JetBrains that connects to MCP servers for context.,Coding Assistants
+cursor/cursor,32000,https://github.com/cursor/cursor,Rust,"2,389",1266,The AI-powered code editor that provides native support for connecting to MCP servers to enhance coding context.,Coding Assistants
+daodao97/chatmcp,2126,https://github.com/daodao97/chatmcp,Dart,43,110,An AI chat client designed specifically to implement and demonstrate the Model Context Protocol.,AI Clients & Interfaces
+eyaltoledano/claude-task-master,24700,https://github.com/eyaltoledano/claude-task-master,TypeScript,129,469,An MCP server designed to add task management and project planning capabilities to AI editors.,Productivity Integrations
+firebase/firebase-tools,4300,https://github.com/firebase/firebase-tools,TypeScript,477,3776,The Firebase CLI which includes an MCP server mode to help AI agents manage Firebase projects., Cloud & Data Services
+FoundationAgents/OpenManus,49300,https://github.com/FoundationAgents/OpenManus,Python,362,374,An open-source implementation of the Manus agent concept capable of using MCP tools for various tasks.,Autonomous Agents
+grab/cursor-talk-to-figma-mcp,5900,https://github.com/grab/cursor-talk-to-figma-mcp,JavaScript,58,32,An MCP integration that allows Cursor AI to read designs from and make modifications to Figma files.,Specialized Tool Bridges
+grafana/mcp-grafana,2100,http://github.com/grafana/mcp-grafana,Go,40,102,An MCP server that provides AI agents with access to Grafana dashboards metrics and logs.,Cloud & Data Services
+JetBrains/mcp-jetbrains,938,https://github.com/JetBrains/mcp-jetbrains,TypeScript,32,35,An MCP server that allows AI agents to interact directly with the context and state of JetBrains IDEs.,Coding Assistants
+Klavis-AI/klavis,5600,https://github.com/Klavis-AI/klavis,Python,6,27,A platform and SDK designed to help AI agents use tools reliably at scale via MCP.,AI Clients & Interfaces
+lastmile-ai/mcp-agent,7788,https://github.com/lastmile-ai/mcp-agent,Python,77,87,A composable framework for building effective agents using MCP and simple workflow patterns.,Agent Frameworks
+lobehub/lobe-chat,68051,https://github.com/lobehub/lobe-chat,TypeScript,1008,4075,An open-source extensible AI chat platform that supports plugins and MCP to connect LLMs with external tools.,AI Clients & Interfaces
+LSTM-Kirigaya/openmcp-client,656,https://github.com/LSTM-Kirigaya/openmcp-client,JavaScript,11,30,A VS Code/Cursor plugin that acts as a client/debugger for testing MCP servers during development.,AI Clients & Interfaces
+MarkusPfundstein/mcp-obsidian,2700,https://github.com/MarkusPfundstein/mcp-obsidian,Python,47,11,An MCP server that exposes your Obsidian vault's notes and search capabilities to AI agents.,Productivity Integrations
+microsoft/autogen,49226,https://github.com/microsoft/autogen,Python,418,2493,A multi-agent framework that enables the creation of cooperating agents which can utilize MCP tools.,Agent Frameworks
+microsoft/azure-devops-mcp,1100,https://github.com/microsoft/azure-devops-mcp,TypeScript,4,366,An MCP server for interacting with Azure DevOps resources like Work Items Repos and Pull Requests.,Cloud & Data Services
+mindsdb/mindsdb,38200,https://github.com/mindsdb/mindsdb,Python,66,4315,An AI virtual database that integrates various data sources and exposes them to agents via MCP.,Cloud & Data Services
+QwenLM/Qwen-Agent,12467,https://github.com/QwenLM/Qwen-Agent,Python,377,298,A framework for developing LLM agents with built-in support for function calling and MCP integration.,Agent Frameworks
+webfansplz/vite-plugin-vue-mcp,533,https://github.com/webfansplz/vite-plugin-vue-mcp,Vue,15,7,Vite plugin that enables a MCP server helping models to understand your Vue app better,Specialized Tool Bridges
+nbonamy/witsy,1748,https://github.com/nbonamy/witsy,TypeScript,25,359,Witsy: desktop AI assistant / universal MCP client,AI Clients & Interfaces
+zaidmukaddam/scira-mcp-chat,827,https://github.com/zaidmukaddam/scira-mcp-chat,TypeScript,4,3,A web-based MCP client playground designed to test and interact with MCP servers.,AI Clients & Interfaces
+Flux159/mcp-chat,131,https://github.com/Flux159/mcp-chat,TypeScript,3,2,A generic testing and evaluation client for MCP servers and agents.,AI Clients & Interfaces
+ThinkInAIXYZ/deepchat,5400,https://github.com/ThinkInAIXYZ/deepchat,TypeScript,29,452,An embeddable AI chat component and agent platform that unifies multiple LLMs.,AI Clients & Interfaces
+Ejb503/multimodal-mcp-client,208,https://github.com/Ejb503/multimodal-mcp-client,TypeScript,5,7,"A voice-first, multimodal client interface",AI Clients & Interfaces
+makenotion/notion-mcp-server,3738,https://github.com/makenotion/notion-mcp-server,TypeScript,83,42,"An official MCP server from Notion that exposes the Notion API as standardized tools, enabling MCP-based agents to read and manage Notion workspace content.",Productivity Integrations
+triggerdotdev/trigger.dev,13324,https://github.com/triggerdotdev/trigger.dev,TypeScript,138,527,"A runnable MCP-based system where the MCP server is distributed as part of the Trigger.dev application/tooling (invoked via the Trigger.dev CLI), exposing operational project-management and run-control tools to MCP Hosts.",Productivity Integrations
