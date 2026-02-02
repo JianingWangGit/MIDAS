@@ -11,23 +11,26 @@ MCP-based software systems are software systems that employ the Model Context Pr
 It typically contains three components:
 1. **MCP Host**: the AI application that manages user interaction and orchestrates the LLM-mediated execution loop.
 2. **Embedded MCP Client(s)**: application-embedded mediators between the Host and each MCP Server; each client maintains a dedicated communication session to its corresponding server.
-3. **MCP Server(s)**: capability providers that expose tools/resources/prompts and return structured results consumed by the Host during execution. :contentReference[oaicite:1]{index=1}
+3. **MCP Server(s)**: capability providers that expose tools/resources/prompts and return structured results consumed by the Host during execution.
 
 ---
 ## What is inside the artifact?
 Defect library and metadata for MCP-based systems studied in our empirical study.
 ---
 ### MIDAS Defect Library Overview
-`mi_defects.csv` documents MCP integration defects collected from MCP-based software systems studied in our empirical study. The result of TABLE 1 in our paper can be reproduced by this organized defect library.
+`mi_defects.csv` documents MCP integration defects collected from MCP-based software systems studied in our empirical study. Summary results reported in **Table 1** of our paper can be reproduced from this defect library.
 
-Each defect entry includes (as available):
-- links to defect reports (e.g., issue/PR),
-- defect pattern label(s),
-- defect description,
-- defect report status (open/closed),
-- root-cause localization (host / client / server side, depending on the case),
-- observed impact(s),
-- links to fixes and relevant source locations.
+Each defect entry includes:
+- system/repository identifier (`repo`)
+- the defect report link (`issue_url`),
+- defect pattern label (`Defect Pattern`)
+- defect description (`description`),
+- report status as recorded in the source tracker (`status`),
+- observed impact code(s) (`impact`),
+- root-cause localization / component layer (`layer`, e.g., host / MCP-client / MCP-server),
+- where the issue occurs (host vs server repository, if applicable) (`Host/server Repository`),
+- resolution link (`resolution_url`)
+- fix summary (`fix`), and relevant code location (`source_location`), when available.
 
 ---
 ### Studied systems / benchmark metadata
@@ -51,4 +54,3 @@ Typical use cases:
 ## License
 
 - **Data** (`defects.csv`, `studied_systems.csv`, and other dataset files): licensed under **PDDL 1.0** (see `LICENSE-DATA`).
-- **Code** (files under `scripts/`): licensed under **MIT** (see `LICENSE-CODE`).
